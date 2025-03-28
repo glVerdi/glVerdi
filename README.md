@@ -1,27 +1,33 @@
-### Hi there! I'm Gabriel Verdi
+# 👨🏻‍💻 Gabriel Verdi
 
-- 📚 I’m currently studyng Computer Science on PUCRS
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- ⚡ Some other facts about me: I'm interested in game develop, front-end and back-end.
-
-<div>
-  <a href="https://github.com/glVerdi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glVerdi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glVerdi&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-
-##
+Me chamo Gabriel Leoncio Verdi, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na PUCRS. Gosto muito de aprender sobre tecnologia e me aprofundar cada vez mais em áreas que estou interessado, que é o caso de Game Dev, Front-end, Beck-end e IA.
 
 <div>
   <a href = "mailto:gabrielverdi37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-verdi-645518208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <!--<a href = "https://github.com/glVerdi?tab=repositories&sort=stargazers"><img alt = "total stars" title = "Total stars on Github" src = "https://custom-icon-badges.demolab.com/github/stars/glVerdi?color=55960&style=for-the-badge&labelColor=488207&label=ESTRELAS"/>
+  <a href = "https://github.com/glVerdi?tab=followers"><img alt="followers"title="Follow me on Github"src="https://custom-icon-badges.demolab.com/github/followers/glVerdi?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>-->
+
+</div>
+
+---
+
+### 🤖 Lingugens e Tecnologias
+<div style="display: inline_block"><br>
+  <img align="left" alt="Gabriel-Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="left" alt="Gabriel-CSS" width="30px" style="padding-right: 10px"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="left" alt="Gabriel-Python" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="left" alt="Gabriel-HTML" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="left" alt="Gabriel-C" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="left" alt="Gabriel-Js" width="30px" style="padding-right: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+<div>
+  <a href="https://github.com/glVerdi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glVerdi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glVerdi&layout=compact&langs_count=16&theme=dracula"/>
 </div>
