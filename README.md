@@ -28,6 +28,6 @@ Me chamo Gabriel Leoncio Verdi, tenho 24 anos e sou natural do Rio Grande do Sul
 ### 📊 Estatísticas
 <div>
   <a href="https://github.com/glVerdi">
-  <img height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=glVerdi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&l"/>
-  <img height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glVerdi&layout=compact&langs_count=16&theme=dark"/>
+  <img height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api?username=glVerdi&show_icons=true&theme=dark&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="200" style="padding-right: 10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=glVerdi&layout=compact&langs_count=16&theme=dark&locale=pt-br"/>
 </div>
