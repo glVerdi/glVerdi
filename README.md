@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Gabriel Verdi
 
-Me chamo Gabriel Leoncio Verdi, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na PUCRS. Gosto muito de aprender sobre tecnologia e me aprofundar cada vez mais em áreas que estou interessado, que é o caso de Game Dev, Front-end, Back-end e IA.
+Me chamo Gabriel Leoncio Verdi, tenho 24 anos e sou natural do Rio Grande do Sul. Atualmente estou cursando Ciência da Computação na PUCRS. Gosto muito de aprender sobre tecnologia e me aprofundar cada vez mais em áreas que estou interessado, que é o caso de Game Dev, Front-end, Back-end e Inteligência Artificial.
 
 <div>
   <a href = "mailto:gabrielverdi37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
