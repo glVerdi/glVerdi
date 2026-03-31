@@ -4,7 +4,7 @@ Me chamo Gabriel Leoncio Verdi, tenho 24 anos e sou natural do Rio Grande do Sul
 
 <div>
   <a href = "mailto:gabrielverdi37@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gabriel-verdi-645518208" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gabriel-verdi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <!--<a href = "https://github.com/glVerdi?tab=repositories&sort=stargazers"><img alt = "total stars" title = "Total stars on Github" src = "https://custom-icon-badges.demolab.com/github/stars/glVerdi?color=55960&style=for-the-badge&labelColor=488207&label=ESTRELAS"/>
   <a href = "https://github.com/glVerdi?tab=followers"><img alt="followers"title="Follow me on Github"src="https://custom-icon-badges.demolab.com/github/followers/glVerdi?color=%23E1AD0E&labelColor=C79600&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/>-->
 
